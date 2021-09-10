@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ludoLootApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

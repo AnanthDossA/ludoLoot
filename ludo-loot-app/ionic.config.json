@@ -1,0 +1,7 @@
+{
+  "name": "ludoLootApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
